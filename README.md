@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Pritam Kumar.
+#### Front-end developer
+![Front-end developer](https://pbs.twimg.com/profile_banners/1302503702184382464/1608314006/1500x500)
 
-<!--
-**pritamkr1/pritamkr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pritam Kumar. I'm a 22-year-old front-end developer based in Ranchi with 1-year of experience. Also, I worked as a WordPress developer at Binary Inc. use HTML, CSS, and JavaScript to produce responsive websites. I have completed Responsive Web Design with feecodecamp.org
 
-Here are some ideas to get you started:
+Skills:  REACT / JS / HTML / CSS /WORDPRESS
 
-- 🔭 I’m currently working on ... A project for newbies
-- 🌱 I’m currently learning ...JavaScript, ReactJs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
